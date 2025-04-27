@@ -84,7 +84,7 @@ During the trial, if you cancel within 7 days, you won't be charged.
 - **Free Trial:** Yes, 7 days
 - **Money-Back Guarantee:** Yes, 7 days
 
-## SurferSEO Alternativea
+## SurferSEO Alternatives
 
 - **Clearscope:** Best for enterprise-grade SEO content strategies.
 - **Frase:** Excellent for content briefs and AI writing.
