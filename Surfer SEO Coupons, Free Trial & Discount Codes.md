@@ -11,7 +11,7 @@ SEO has become increasingly competitive, and users need a solution that delivers
 With thousands of success stories and backed by positive user reviews (G2 gives it **4.8/5 stars**), SurferSEO is poised to help you dominate search engines this year. If you're serious about content marketing, grabbing SurferSEO's promo codes and free trial offers in 2025 could be one of your smartest moves.
 
 <a href="https://afftrend.com/surferseo">
-  <img src="https://raw.githubusercontent.com/digirepoin/surferseo/refs/heads/main/seo_ctr_impact.png" alt="SEO CTR Impact">
+  <img src="https://raw.githubusercontent.com/digirepoin/surferseo/refs/heads/main/img/seo_ctr_impact.png" alt="SEO CTR Impact">
 </a>
 
 **Product Overview**
