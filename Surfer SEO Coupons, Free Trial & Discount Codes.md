@@ -19,7 +19,7 @@ With thousands of success stories and backed by positive user reviews (G2 gives 
 | Attribute                | Details                                                                 |
 | ------------------------ | ----------------------------------------------------------------------- |
 | **Product Name**         | SurferSEO                                                               |
-| **Official Website**     | [surferseo.com](https://surferseo.com)                                  |
+| **Official Website**     | [surferseo.com](https://afftrend.com/surferseo)                                  |
 | **Developers**           | Surfer Co.                                                              |
 | **USPs**                 | Data-driven SEO, AI content optimization, Content Editor, SERP Analyzer |
 | **Category**             | SEO & Content Optimization Tool                                         |
